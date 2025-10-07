@@ -17,3 +17,8 @@ I am currently enhancing my skills in DevOps, Networking, and Automation, while 
 **Platforms:** Windows, Linux
 
 ---
+## 📌 Current Projects
+
+- 🔐 **Certificate Details Fetching Script** (Python)  
+- 🌐 **Shodan API Integration Demo**  
+- 🖧 **Mininet Virtual Networks**
